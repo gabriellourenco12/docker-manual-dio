@@ -1,3 +1,3 @@
-# docker_first_steps
+# Manual Docker
 
 Repositório criado para auxiliar no aprendizado do curso de Docker.
